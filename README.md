@@ -9,4 +9,4 @@ Programas em python desenvolvidos através do Colab
 - [Analytics III](Analytics_III.ipynb)
 - [Gestão de prontuário](https://github.com/gihcout/python/blob/main/Gest%C3%A3o%20de%20prontu%C3%A1rio.ipynb)
 - [Agenda](Agenda.ipynb)
-- [Comandos básicos](Comandos básicos.ipynb)
+- [Comandos básicos](https://github.com/gihcout/python/blob/main/Comandos%20b%C3%A1sicos.ipynb)
