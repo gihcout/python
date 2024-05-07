@@ -4,9 +4,9 @@ Programas em python desenvolvidos através do Colab
 &nbsp;
 
 ```python
-def saudacao(nome):
-    print(f"Olá {nome}! Bem-vindo!")
-saudacao("Mundo")
+def greeting(name):
+    print(f"Hello {name}! Welcome!")
+greeting("World")
 ```
 &nbsp;
 
